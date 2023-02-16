@@ -1,0 +1,1 @@
+prompt("Este es un argumento, que da contexto al cuadro de diálogo donde el usuario ingresa un valor");
